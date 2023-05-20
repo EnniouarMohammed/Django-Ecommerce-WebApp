@@ -24,32 +24,49 @@ Ecommerce web application with Django 2.2.3, Python 3.7.3
 `BillingAddress Page`
 ![image](https://github.com/EnniouarMohammed/Django-Ecommerce-WebApp/assets/88623067/fd3acfad-b3d4-4047-9df3-4772e9b12c96)
 
+
 # Installation
 
-```pip install django```
+```bash
+pip install django
+```
 
-```virtualenv env```
+```bash
+virtualenv env
+```
 
 # For Mac/ Linux
 
-```source env/bin/activate```
+```bash
+env/bin/activate
+```
 
 # For Window
 
-```env\scripts\activate```
+```bash
+env\scripts\activate
+```
 
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 
-```python manage.py makemigrations```
+```bash
+python manage.py makemigrations
+```
 
-```python manage.py migrate```
+```bash
+python manage.py migrate
+```
 
-```python manage.py runserver```
+```bash
+python manage.py runserver
+```
 
 # For Admin Login
 
-`python
+```python
 python manage.py createsuperuser
 Username : admin
 Password : 12345678
-`
+```
