@@ -18,7 +18,7 @@
 
 
 ### Product Detail Page :
-![image](https://github.com/EnniouarMohammed/Django-Ecommerce-WebApp/assets/88623067/4948e34e-e1d2-401c-a3c8-aea91cb1659e)
+![image](https://github.com/EnniouarMohammed/Django-Ecommerce-WebApp/assets/88623067/5591c8ba-f530-4d7f-b878-73d443b0619d)
 
 
 ### Cart Page :
